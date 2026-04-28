@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Arcata palloncini elegante">
+  <defs>
+    <linearGradient id="p1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f9e2e8" />
+      <stop offset="100%" stop-color="#e6bac4" />
+    </linearGradient>
+    <linearGradient id="p2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff2e6" />
+      <stop offset="100%" stop-color="#f2d7c4" />
+    </linearGradient>
+  </defs>
+
+  <ellipse cx="64" cy="108" rx="33" ry="6" fill="#b78462" opacity="0.14" />
+
+  <path d="M36 100c0-22 12-44 28-52c16 8 28 30 28 52" fill="none" stroke="#d7a0ac" stroke-width="3.2" stroke-linecap="round" opacity="0.6" />
+
+  <ellipse cx="40" cy="96" rx="6.2" ry="7" fill="url(#p1)" />
+  <ellipse cx="48" cy="86" rx="6.2" ry="7" fill="url(#p2)" />
+  <ellipse cx="56" cy="78" rx="6.2" ry="7" fill="url(#p1)" />
+  <ellipse cx="64" cy="73" rx="6.2" ry="7" fill="url(#p2)" />
+  <ellipse cx="72" cy="78" rx="6.2" ry="7" fill="url(#p1)" />
+  <ellipse cx="80" cy="86" rx="6.2" ry="7" fill="url(#p2)" />
+  <ellipse cx="88" cy="96" rx="6.2" ry="7" fill="url(#p1)" />
+
+  <ellipse cx="44" cy="92" rx="6.2" ry="7" fill="url(#p2)" />
+  <ellipse cx="52" cy="82" rx="6.2" ry="7" fill="url(#p1)" />
+  <ellipse cx="60" cy="75" rx="6.2" ry="7" fill="url(#p2)" />
+  <ellipse cx="68" cy="75" rx="6.2" ry="7" fill="url(#p1)" />
+  <ellipse cx="76" cy="82" rx="6.2" ry="7" fill="url(#p2)" />
+  <ellipse cx="84" cy="92" rx="6.2" ry="7" fill="url(#p1)" />
+
+  <path d="M39 100v6M89 100v6" stroke="#d4a5af" stroke-width="2.2" stroke-linecap="round" />
+
+  <circle cx="46" cy="84" r="1.1" fill="#fff8f9" opacity="0.85" />
+  <circle cx="64" cy="73" r="1.1" fill="#fff8f9" opacity="0.85" />
+  <circle cx="82" cy="88" r="1.1" fill="#fff8f9" opacity="0.85" />
+</svg>

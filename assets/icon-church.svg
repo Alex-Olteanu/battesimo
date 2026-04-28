@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Chiesa">
+  <defs>
+    <linearGradient id="cg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f6d9de" />
+      <stop offset="100%" stop-color="#e3b6c0" />
+    </linearGradient>
+  </defs>
+  <path d="M20 108h88v-44H20v44Z" fill="url(#cg)" />
+  <path d="M64 18l22 22h-8v24H50V40h-8l22-22Z" fill="#d8a1ad" />
+  <rect x="57" y="24" width="14" height="6" rx="2" fill="#fff5f7" />
+  <path d="M64 8v16M56 16h16" stroke="#cf8f9d" stroke-width="4" stroke-linecap="round" />
+  <rect x="28" y="76" width="16" height="14" rx="3" fill="#fff5f7" />
+  <rect x="84" y="76" width="16" height="14" rx="3" fill="#fff5f7" />
+  <path d="M56 108V84c0-5 4-9 8-9s8 4 8 9v24" fill="#c98f97" />
+</svg>
