@@ -44,14 +44,15 @@ body {
   display: grid;
   place-items: end center;
   isolation: isolate;
+  padding: 0 16px;
 }
 
 .clouds {
   /* position: absolute;
   top: 7%;
   left: 0;
-  right: 0;
-  height: 190px; */
+  right: 0;*/
+  height: 100px; 
   z-index: 2;
   pointer-events: none;
   overflow: hidden;
@@ -249,7 +250,7 @@ body {
   padding: 22px;
   margin: 16px auto;
   /* margin-top: 50px; */
-  background: rgba(255, 255, 255, 0.48);
+  background: rgba(255, 255, 255, 0.387);
   border-radius: var(--radius);
   backdrop-filter: blur(4px);
   box-shadow: var(--shadow);
